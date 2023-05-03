@@ -94,7 +94,7 @@ def _save_clients_to_storage():
 
 
 def _print_welcome():
-    print('WELCOME TO PLATZI VENTAS')
+    print('WELCOME TO VENTAS')
     print('*' * 50)
     print('What would you like to do today?:')
     print('[C]reate client')
