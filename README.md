@@ -2,7 +2,7 @@
 
 ***
 
-esta realizado con el curso con python 2 peor adaptado para python 3
+esta realizado con el curso con python 2 pero adaptado para python 3
 agregas un nombre,compania,email,puesto 
 se tiene que crear un venv
 ##Crear entorno virtual
